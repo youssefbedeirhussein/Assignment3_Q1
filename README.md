@@ -1,7 +1,7 @@
 # Assignment3_Q1
 
-Name: Youssef Bedeir Hussein
-Student#: 101237710
+Youssef Bedeir Hussein
+101237710
 
 Instructions)
 
